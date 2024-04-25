@@ -1,0 +1,26 @@
+input{
+    background-color:#e7e5eaea ;
+    border: 2px solid rgba(112, 108, 224, 0.842);
+}
+option{
+    background-color:rgba(243, 236, 236, 0.916) ;
+    border: 2px solid rgb(243, 247, 246);
+}
+select{
+    background-color:rgba(231, 233, 213, 0.916) ;
+    border: 2px solid rgb(231, 241, 238);
+}
+.Regitro{
+    padding: 30px;
+    width: 700px;
+    margin: auto;
+    margin-top: 100px;
+    background-color:rgb(150, 116, 192) ;
+    border: 2px solid rgb(203, 210, 208);
+}
+div{
+    border: 2px solid rgb(170, 245, 235);
+}
+body{
+    background-color:rgb(255, 255, 255);
+}
